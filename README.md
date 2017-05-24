@@ -7,6 +7,6 @@
 >
 > This is my first static website. It is developed using HTML and CSS.
 >
-<p>Just trying to master the use of <code><div></code> and <code><span></code>tags.</p>
+> Just trying to master the use of "div" and "span" tags.
 >
->&copy; domanisamuel
+>&copy; domanisamuel / Moringa School
