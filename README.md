@@ -5,7 +5,9 @@
 >
 >Project Name: My First Static Website.
 >
-> This is my first static website. It is developed using HTML and CSS.
+> This is my first static website.
+>
+>It is developed using HTML and CSS.
 >
 > Just trying to master the use of "div" and "span" tags.
 >
